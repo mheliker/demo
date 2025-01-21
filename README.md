@@ -1,2 +1,2 @@
-# Heliker's README for WEB110
-## I'll create my assignments in my WEB110 folder
+# Heliker's README
+## I'll create my assignments in my various class folders
